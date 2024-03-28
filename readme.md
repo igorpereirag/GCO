@@ -3,7 +3,7 @@
 
 ## Descrição
 
-O GCO (Gestão de Consultório Odontológico) é uma solução de software de código aberto que foi descontinuada em meados de 2015 pelos seus idealizadores e desenvolvedores. Foi projetada para atender às necessidades específicas de um consultório odontológico e, embora não seja mais mantida, ainda é utilizada em alguns consultórios no Brasil por ser uma solução de código aberto sem custos e licenças a pagar. Seu principal objetivo é aumentar a eficiência dos serviços prestados, garantindo ao mesmo tempo maior segurança e confiabilidade das informações armazenadas. O sistema automatizava a gestão das diversas atividades do consultório, incluindo:
+O GCO (Gestão de Consultório Odontológico) é uma solução de software de código aberto que foi descontinuada em meados de 2015 pelos seus idealizadores e desenvolvedores. Foi projetada para atender às necessidades específicas de um consultório odontológico e, embora não seja mais mantida, ainda é utilizada em alguns consultórios no Brasil por ser uma solução de código aberto sem custos e licenças a pagar. Seu principal objetivo é aumentar a eficiência dos serviços prestados, garantindo ao mesmo tempo maior segurança e confiabilidade das informações armazenadas. O sistema automatiza a gestão das diversas atividades do consultório, incluindo:
 
 - Cadastro de pacientes
 - Cadastro de funcionários, prestadores de serviços e fornecedores
