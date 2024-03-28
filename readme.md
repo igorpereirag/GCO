@@ -14,4 +14,9 @@ O GCO (Gestão de Consultório Odontológico) é uma solução de software de c�
 - Emissão de receituários e contratos
 - Agendamento de consultas
 
-Além disso, o GCO oferece a geração de relatórios detalhados sobre os serviços prestados e atendimentos realizados. Atualmente, neste repositório, o sistema está passando por melhorias contínuas em suas funcionalidades, interface e desempenho, incluindo correções de bugs. A aplicação é executada em um servidor Apache no XAMPP, utilizando versões do PHP 5.2.
+Além disso, o GCO oferece a geração de relatórios detalhados sobre os serviços prestados e atendimentos realizados. Atualmente, neste repositório, o sistema está passando por melhorias contínuas em suas funcionalidades, interface e desempenho, incluindo correções de bugs e atualizações para as versões mais recentes do PHP. A aplicação é executada em um servidor Apache no XAMPP, utilizando versões do PHP 5.2.
+
+
+
+
+
